@@ -87,7 +87,6 @@ Header, Main, Footer
 
 CSS 
 
-
 Inline css, Internal css, External css
 
 colors: name, rgb avlues[], hexa decimal, hsl values[]
@@ -96,6 +95,31 @@ Font
 
 Borders
 
+
+Shadows
+
+margins 
+
+float - allows other element to flow around it 
+
+
+
+overflow - property that sets the desrired behavior when conten not fit in the parent element/box (overflow)
+
+visible
+hidden
+scroll
+auto
+
+
+
+display - property specify an if/how an element is displayed
+
+block-level - start on a new line , take up the full width of the avalibale space
+(h1, div, p, form, header, footer)
+
+inline-level - do not start from new line, width is limited to what is needed
+(span, a, img, etc)
 
 
 

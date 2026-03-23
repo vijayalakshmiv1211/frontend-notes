@@ -61,9 +61,88 @@ h1 {
     border-left: 3px dotted red;
     border-right: 3px dashed red;
    
+} 
+
+h1 {
+    text-shadow: 3px 3px 2px red, -3px -3px 2px blue;
+}
+
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: lightgrey;
+    box-shadow: 3px 3px 5px red;
+}
+
+body{
+    margin: 0px;
+}
+
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+   
+     margin: 50px auto;
+}
+
+#box1 {
+    background-color: lightcoral;
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px; 
+    
+    
+}
+
+#box2 {
+    background-color: lightgreen;
+    
+} 
+
+
+body {
+    border: 3px solid;
+    display: flow-root;
+
+}
+
+#img1 {
+   float: left;
+   margin-right: 10px;
+}
+#img2 {
+   float: right;
+   margin-right: 10px;
+}  
+
+
+#div1 {
+    border: 2px solid;
+    height: 50px;
+    /* overflow: clip;
+    overflow-clip-margin: 26px; 
+    overflow: auto;
 } */
 
 
+#div1 {
+    background-color: lightgreen;
+    width: 100px;
+    height: 100px; 
+    /* display:  inline-block;
+    visibility: hidden; */
+}
 
+#span1 {
+    background-color: lightpink;
+    width: 100px;
+    height: 100px;
+    /* display: inline-block;
+    visibility: none; */
 
+}
 
